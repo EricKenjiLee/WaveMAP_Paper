@@ -6,6 +6,7 @@ To fully replicate and explore the figures used in Lee **et al.** (2021), MATLAB
 
 To generate the rest of the figures, create a clean environment folder with only Jupyter installed and place the .ipynb in it. Launch the notebook in Jupyter notebook and run the first few cells. From here, the user has the option of generating the folders stand-alone or launching in Google Colab. This notebook was written with Colab in mind but if one wishes to run it locally, the `pip install` commands should be changed to `pip3 install` on some OS's so that Python 2.7 versions of packages are not installed. Note that using pip will need to be done within an environment. This was tested using pipenv by changing the commands to `pipenv install` for packages not already installed. It will be necessary to add the pipenv kernel to Jupyter using the [ipykernel program](https://stackoverflow.com/questions/47295871/is-there-a-way-to-use-pipenv-with-jupyter-notebook).
 
+----------------------------------------------------
 
   Lee, E. K. et al. Non-linear Dimensionality Reduction on Extracellular Waveforms Reveals Physiological, Functional, and Laminar Diversity in Premotor Cortex. bioRxiv (2021) doi:10.1101/2021.02.07.430135.
   
