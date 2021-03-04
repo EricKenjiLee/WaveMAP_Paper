@@ -1,6 +1,6 @@
 # WaveMAP Paper Figure Replication
 
-### *WARNING*: If you are reviewing this paper as a manuscript __DO NOT__ star or fork the repo containing this file as it is deanonymizing. 
+### *WARNING*: If you are reviewing this paper as a manuscript __DO NOT__ star, fork, or watch the repo containing this file as it is deanonymizing. 
 
 To fully replicate and explore the figures used in Lee **et al.** (2021), MATLAB (2020a) and Python (3.7) with Jupyter or access to Google Colab are required. To generate the psychometric curves in the first figure of the manuscript, open the Figure_1.mlx file in MATLAB and add the file folder including subfolders to path. 
 
