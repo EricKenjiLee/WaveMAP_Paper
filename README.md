@@ -8,6 +8,8 @@ To generate the rest of the figures, create a clean environment folder with only
 
 ----------------------------------------------------
 
+Paper can be found [here](https://www.biorxiv.org/content/10.1101/2021.02.07.430135v1)
+
 ### Citations should use the following format
 
   Lee, E. K. et al. Non-linear Dimensionality Reduction on Extracellular Waveforms Reveals Physiological, Functional, and Laminar Diversity in Premotor Cortex. bioRxiv (2021) doi:10.1101/2021.02.07.430135.
