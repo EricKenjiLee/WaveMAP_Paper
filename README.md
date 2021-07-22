@@ -19,6 +19,8 @@ Option 2: If you decide you would rather run this in your local computer, create
 ---
 
 Lee, E. K. et al. Non-linear Dimensionality Reduction on Extracellular Waveforms Reveals Physiological, Functional, and Laminar Diversity in Premotor Cortex. bioRxiv (2021) doi:10.1101/2021.02.07.430135.
+
+---
   
 Creative Commons Legal Code
 
