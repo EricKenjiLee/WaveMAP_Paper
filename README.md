@@ -2,6 +2,8 @@
 
 *WARNING*: If you are reviewing this paper as a manuscript __DO NOT__ star or fork the repo containing this file as it is deanonymizing. You are welcome to clone the repo as written in the .ipynb as this is anonymized. 
 
+Hosted at [![DOI](https://zenodo.org/badge/342459533.svg)](https://zenodo.org/badge/latestdoi/342459533)
+
 ---
 
 To fully replicate and explore the figures used in Lee **et al.** (2021), MATLAB (2020a) and Python (3.7+) with Jupyter or access to Google Colab are required. The colors and format of many figures will appear differently because they were edited after generation in Adobe Illustrator. Running the notebook outside of Colab is not guaranteed to produce the same figures as this has not been tested on other OS's.
