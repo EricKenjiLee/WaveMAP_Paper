@@ -14,7 +14,7 @@ Figures 3 to 9 and all supp. figures except 9:
 
 To generate the rest of the figures (not including diagrams in Figure 2) there are two options:
 
-Option 1: This is the easiest. Load the Waveform_Figures_Data.ipynb file into Google Colab. This can be easily done using a google account. You are then all set to use the cells. Obviously you can choose to either manually load all the files into the runtime or alternatively just use the git clone command which will clone it into the correct path. We have found the git clone aspect to be far easier and less painful than slowly adding files in google colab.
+Option 1: This is the easiest. Load the Waveform_Figures_Data.ipynb file into Google Colab. This can be easily done using a google account. You are then all set to use the cells. Obviously you can choose to either manually load all the files into the runtime or alternatively just use the git clone command which will clone it into the correct path. We have found the git clone aspect to be far easier and less painful than slowly adding files in Google Colab.
 
 Option 2: If you decide you would rather run this in your local computer, create and activate an environment folder, clone this repo into it, and install all packages imported in the .ipynb plus the specific versions of other packages shown by `!pip install [package]` in the notebook. Launch the notebook in Jupyter notebook/JupyterLab and run the first few cells with the now redundant cloning and installation cells commented out. Note it will be necessary to add the environment kernel to Jupyter using the [ipykernel program](https://stackoverflow.com/questions/47295871/is-there-a-way-to-use-pipenv-with-jupyter-notebook).
 
