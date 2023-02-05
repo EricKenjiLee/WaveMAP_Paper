@@ -2,6 +2,8 @@
 
 *WARNING*: If you are reviewing this paper as a manuscript __DO NOT__ star or fork the repo containing this file as it is deanonymizing. You are welcome to clone the repo as written in the .ipynb as this is anonymized. 
 
+Continuous Integration [![EricKenjiLee](https://circleci.com/gh/EricKenjiLee/WaveMAP_Paper.svg?style=svg)]([<LINK>](https://app.circleci.com/pipelines/github/EricKenjiLee/WaveMAP_Paper))
+
 Protocol package [![PyPI version](https://badge.fury.io/py/wavemap_paper.svg)](https://badge.fury.io/py/wavemap_paper)
 
 Hosted at [![DOI](https://zenodo.org/badge/342459533.svg)](https://zenodo.org/badge/latestdoi/342459533)
