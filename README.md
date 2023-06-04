@@ -26,6 +26,8 @@ Option 2: If you decide you would rather run this in your local computer, create
 
 Lee, E. K. et al. Non-linear Dimensionality Reduction on Extracellular Waveforms Reveals Physiological, Functional, and Laminar Diversity in Premotor Cortex. bioRxiv (2021) doi:10.1101/2021.02.07.430135.
 
+Lee, K., Carr, N., Perliss, A. & Chandrasekaran, C. WaveMAP for identifying putative cell types from in vivo electrophysiology. Star Protoc 4, 102320 (2023). doi:10.1016/j.xpro.2023.102320
+
 ---
   
 MIT License
